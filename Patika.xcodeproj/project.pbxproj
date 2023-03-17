@@ -56,15 +56,23 @@
 		FFD8D8A429C45AC000FD7324 /* Patika */ = {
 			isa = PBXGroup;
 			children = (
-				FFD8D8A529C45AC000FD7324 /* AppDelegate.swift */,
-				FFD8D8A729C45AC000FD7324 /* SceneDelegate.swift */,
+				FFD8D8B929C45ADB00FD7324 /* Supporting Files */,
 				FFD8D8A929C45AC000FD7324 /* ViewController.swift */,
 				FFD8D8AB29C45AC000FD7324 /* Main.storyboard */,
+			);
+			path = Patika;
+			sourceTree = "<group>";
+		};
+		FFD8D8B929C45ADB00FD7324 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FFD8D8A529C45AC000FD7324 /* AppDelegate.swift */,
+				FFD8D8A729C45AC000FD7324 /* SceneDelegate.swift */,
 				FFD8D8AE29C45AC100FD7324 /* Assets.xcassets */,
 				FFD8D8B029C45AC100FD7324 /* LaunchScreen.storyboard */,
 				FFD8D8B329C45AC100FD7324 /* Info.plist */,
 			);
-			path = Patika;
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
